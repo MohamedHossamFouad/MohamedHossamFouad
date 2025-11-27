@@ -51,7 +51,7 @@
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" />
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
 </div>
@@ -100,7 +100,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MohamedHossamFouad/MohamedHossamFouad/output/snake.svg" alt="Snake animation" />
-</p>
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/MohamedHossamFouad/MohamedHossamFouad/output/snake.svg" alt="Snake animation" />
+
+###
